@@ -144,10 +144,10 @@
 
   const CONFIG = {
     csvPath: './puzzles.csv',
-    storageKey: 'memory_match_vault_v2',
-    csvCacheKey: 'memory_match_csv_offline_cache',
-    soundPrefKey: 'memory_match_sound_enabled',
-    bgAnimPrefKey: 'memory_match_bg_anim_enabled'
+    storageKey: 'cannamemory_match_vault_v2',
+    csvCacheKey: 'cannamemory_match_csv_offline_cache',
+    soundPrefKey: 'cannamemory_match_sound_enabled',
+    bgAnimPrefKey: 'cannamemory_match_bg_anim_enabled'
   };
 
   const state = {
